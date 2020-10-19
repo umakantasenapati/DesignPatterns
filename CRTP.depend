@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601119257 source:e:\docs\c++\c++programe\crtp\main.cpp
+	<iostream>
+	<typeinfo>
+
